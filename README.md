@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm M.D. SAKIBUL ISLAM SHOVON</h1>
-<h1 amign="center">------------------------------------</h1>
 <h3 align="center">A passionate frontend developer</h3>
-<h1 amign="center">===============================</h1>
-- 🌱 I’m currently learning **Patuakhali Science and Technology University**
+- 🌱 I’m currently learning Patuakhali Science and Technology University
 
 
 ## 🌐 Socials:
