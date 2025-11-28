@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm M.D. SAKIBUL ISLAM SHOVON</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shovon944&label=Profile%20views&color=0e75b6&style=flat" alt="shovon944" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shovon944" alt="shovon944" /></a> </p>
-
 - 🌱 I’m currently learning **Patuakhali Science and Technology University**
 
 - 📫 How to reach me **sakibul944@gmail.com**
