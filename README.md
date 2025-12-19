@@ -1,21 +1,12 @@
-<h1 align="center">Hi 👋, I'm M.D. SAKIBUL ISLAM SHOVON</h1>
+<h1 align="center">Hi , I'm M.D. SAKIBUL ISLAM SHOVON</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-<table align="center" style="width: 100%; border: none; border-collapse: collapse;">
-  <tr>
-    <td style="width: 50%; vertical-align: middle; border: none;">
-      <p align="center">
-        <!-- Animated wave SVG -->
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+profile!;Always+learning+new+things;Frontend+%7C+Web+Dev" alt="Typing SVG" />
-      </p>
-    </td>
-    <td style="width: 50%; vertical-align: middle; text-align: center; border: none;">
-      <img src="tic-tac-toe-animated.svg" alt="Animated Tic-Tac-Toe Game" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <!-- Animated wave SVG -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+profile!;Always+learning+new+things;Frontend+%7C+Web+Dev" alt="Typing SVG" />
+</p>
 
-- 🌱 I’m currently learning at **Patuakhali Science and Technology University**
+- 🌱 I’m currently learning at *Patuakhali Science and Technology University*
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sakibul944) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/md-si-shovon) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sakibul944@gmail.com)
