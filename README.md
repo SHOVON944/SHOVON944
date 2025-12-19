@@ -3,7 +3,7 @@
 
 <p align="center">
   <!-- Animated wave SVG -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+profile!;Always+learning+new+things;Frontend+%7C+UI%2FUX+%7C+Web+Dev" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+profile!;Always+learning+new+things;Frontend+%7C+Web+Dev" alt="Typing SVG" />
 </p>
 
 - 🌱 I’m currently learning at **Patuakhali Science and Technology University**
