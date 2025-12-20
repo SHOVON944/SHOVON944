@@ -106,7 +106,10 @@
 <!-- ================= FOOTER ================= -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
-<img src="https://capsule-render.vercel.app/api?type=waving3&color=gradient&height=120&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving2&color=gradient&height=120&section=header" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving3&color=gradient&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving4&color=gradient&height=120&section=header" />
 
 <!-- ========================================================= -->
 <!-- =============== LEGENDARY HERO HEADER ================== -->
