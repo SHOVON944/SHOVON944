@@ -1,11 +1,17 @@
-<h1 align="center">Hi , I'm M.D. SAKIBUL ISLAM SHOVON</h1>
-<h3 align="center">A passionate frontend developer</h3>
-
 <!-- ================= HERO HEADER: Full Width Waving Box ================= -->
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&animation=fadeIn&color=gradient&height=140&section=header&text=Hi,+I'm+M.D.+SAKIBUL+ISLAM+SHOVON&fontSize=28&fontAlignY=38" alt="Shovon Name Animation" />
 </p>
+
+<!-- ================= Subheading Animation ================= -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFB400&center=true&vCenter=true&width=450&lines=A+passionate+frontend+developer" alt="Subheading Typing Animation" />
+</p>
+
+
+
+
 
 
 
