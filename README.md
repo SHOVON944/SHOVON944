@@ -3,22 +3,20 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&animation=fadeIn&color=gradient&height=140&section=header&text=Hi,+I'm+M.D.+SAKIBUL+ISLAM+SHOVON&fontSize=28&fontAlignY=38" alt="Shovon Name Animation" />
 </p>
 
-<!-- ================= Subheading Animation ================= -->
+<!-- ================= HERO SUBHEADINGS ANIMATION ================= -->
 
 <p align="center">
+  <!-- Subheading Typing Animation -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFB400&center=true&vCenter=true&width=450&lines=A+passionate+frontend+developer" alt="Subheading Typing Animation" />
 </p>
 
-
-
-
-
-
+<br><br>
 
 <p align="center">
-  <!-- Animated wave SVG -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+profile!;Always+learning+new+things;Frontend+%7C+Web+Dev" alt="Typing SVG" />
+  <!-- Welcome / Learning Animation -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+profile!;Always+learning+new+things;Frontend+%7C+Web+Dev" alt="Welcome Typing SVG" />
 </p>
+
 <!-- ================= HERO HEADER (Capsule Render) ================= -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=MD%20SAKIBUL%20ISLAM%20SHOVON&fontSize=35&fontAlignY=40" />
