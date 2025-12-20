@@ -115,5 +115,10 @@ Degree      : B.Sc. in Computer Science & Engineering
 University  : Patuakhali Science and Technology University
 Focus       : Frontend Development + Problem Solving
 Mindset     : Learn → Build → Improve → Repeat
+```
+<!-- ================= FOOTER THANK YOU LINE ================= -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FFB400&center=true&vCenter=true&width=500&lines=Thanks%20for%20visiting!%20Your%20support%20means%20a%20lot%20🙏;Stay%20tuned%20for%20more%20projects%20🚀;Let's%20build%20something%20awesome%20together!" alt="Footer Typing Animation" />
+</p>
 
 
