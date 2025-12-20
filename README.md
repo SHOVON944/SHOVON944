@@ -40,6 +40,11 @@
   </a>
 </p>
 
+<!-- ================= SKILLS / TECH STACK ICONS (One Line) ================= -->
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,react,git,github&theme=dark&perline=11" />
+</p>
 
 <!-- ================= CONTRIBUTION SNAKE ANIMATION ================= -->
 
@@ -49,11 +54,7 @@
 
 
 
-<!-- ================= SKILLS / TECH STACK ICONS (One Line) ================= -->
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,react,git,github&theme=dark&perline=11" />
-</p>
 
 
 <!-- ================= GITHUB STATS ================= -->
