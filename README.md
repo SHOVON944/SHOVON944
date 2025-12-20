@@ -18,7 +18,7 @@
 
 <!-- ================= ABOUT ME SECTION (Static, Big & Colorful) ================= -->
 
-<p align="center" style="font-size:18px; line-height:1.8;">
+<p align="left" style="font-size:22px; line-height:1.8;">
   <span style="color:#FF5733;">🌱 Studying <b>Computer Science & Engineering</b> at <b>Patuakhali Science and Technology University</b></span><br>
   <span style="color:#33C3FF;">💻 Interested in <b>Frontend Development & Competitive Programming</b></span><br>
   <span style="color:#28A745;">🚀 Always learning new technologies</span>
