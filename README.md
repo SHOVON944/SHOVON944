@@ -104,5 +104,5 @@
 
 <!-- ================= FOOTER THANK YOU LINE ================= -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=450&lines=Thanks%20for%20visiting%20my%20GitHub%20profile!;Your%20support%20means%20a%20lot%20🙏;Stay%20tuned%20for%20more%20projects%20🚀;Let's%20build%20something%20awesome%20together!" alt="Footer Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=450&lines=Thanks%20for%20visiting%20my%20GitHub%20profile!;Your%20support%20means%20a%20lot%20;Stay%20tuned%20for%20more%20projects%20🚀;Let's%20build%20something%20awesome%20together!" alt="Footer Typing Animation" />
 </p>
