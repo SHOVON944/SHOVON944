@@ -24,6 +24,23 @@
   <span style="color:#28A745;">🚀 Always learning new technologies</span>
 </p>
 
+<!-- ========================================================= -->
+<!-- ==================== SOCIAL LINKS ====================== -->
+<!-- ========================================================= -->
+
+<p align="center">
+  <a href="https://facebook.com/sakibul944">
+    <img src="https://img.shields.io/badge/Facebook-0A66C2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/md-si-shovon">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:sakibul944@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+
 
 <!-- ================= SKILLS / TECH STACK ICONS ================= -->
 
@@ -112,21 +129,6 @@
 
 
 
-<!-- ========================================================= -->
-<!-- ==================== SOCIAL LINKS ====================== -->
-<!-- ========================================================= -->
-
-<p align="center">
-  <a href="https://facebook.com/sakibul944">
-    <img src="https://img.shields.io/badge/Facebook-0A66C2?style=for-the-badge&logo=facebook&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/md-si-shovon">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:sakibul944@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
 
 
 
