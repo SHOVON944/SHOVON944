@@ -18,13 +18,9 @@
 
 <!-- ================= ABOUT ME SECTION (Static, Big & Colorful) ================= -->
 <p align="left">
-  <span style="background-color: #FF5733; color: white; padding: 7px 15px; border-radius: 5px; font-family: sans-serif; font-size: 22px; font-weight: bold; display: inline-block; line-height: 1.5;">
-    🎓 Degree: B.Sc. Engg. in CSE
-  </span>
-  <span style="background-color: #006400; color: white; padding: 7px 15px; border-radius: 5px; font-family: sans-serif; font-size: 22px; font-weight: bold; display: inline-block; line-height: 1.5; margin-left: 5px;">
-    🏛️ University: PSTU
-  </span>
-</p>>
+  <img src="https://img.shields.io/badge/B.Sc._Engg._in_CSE-FF5733?style=flat&logo=googlescholar&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/Patuakhali Science and Technology University-006400?style=flat&logo=google-earth&logoColor=white" height="28"/>
+</p>
 
 
 <!-- ========================================================= -->
