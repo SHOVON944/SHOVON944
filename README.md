@@ -17,23 +17,20 @@
 
 
 <!-- ================= ABOUT ME SECTION (Static, Big & Colorful) ================= -->
+
 <p align="left">
-  <img src="https://img.shields.io/badge/B.Sc.%20Engg.%20in%20CSE-FF5733?style=for-the-badge&logo=googlescholar&logoColor=white" />
-  <img src="https://img.shields.io/badge/Patuakhali Science and Technology University-006400?style=for-the-badge&logo=google-earth&logoColor=white" />
+
+  <img 
+    src="https://img.shields.io/badge/B.Sc._Engg._in_CSE-FF5733?style=flat&logo=googlescholar&logoColor=white"
+    style="height:35px; transform: scale(1.2); margin-right:6px;"
+  />
+
+  <img 
+    src="https://img.shields.io/badge/Patuakhali Science and Technology University-006400?style=flat&logo=google-earth&logoColor=white"
+    style="height:35px; transform: scale(1.2);"
+  />
+
 </p>
-
-
-
-
-<img src="https://img.shields.io/badge/B.Sc._Engg._in_CSE-FF5733?style=flat&logo=googlescholar&logoColor=white" height="40"/>
-
-<img src="https://img.shields.io/badge/Patuakhali Science and Technology University-006400?style=flat&logo=google-earth&logoColor=white" height="40"/>
-<img src="https://img.shields.io/badge/B.Sc._Engg._in_CSE-FF5733?style=for-the-badge&logo=googlescholar&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Patuakhali Science and Technology University-006400?style=for-the-badge&logo=google-earth&logoColor=white"/>
-<img src="https://img.shields.io/badge/B.Sc._Engg._in_CSE-FF5733?style=flat&logo=googlescholar&logoColor=white"
-     style="height:35px; transform: scale(1.2);"/>
-
 
 
 
