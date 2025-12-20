@@ -3,11 +3,12 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&animation=fadeIn&color=gradient&height=140&section=header&text=Hi,+I'm+M.D.+SAKIBUL+ISLAM+SHOVON&fontSize=28&fontAlignY=38" alt="Shovon Name Animation" />
 </p>
 
-<!-- ================= SINGLE LINE HERO SUBHEADING ================= -->
+<!-- ================= MULTI-LINE TYPING ANIMATION ================= -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFB400&center=true&vCenter=true&width=650&lines=A+passionate+frontend+developer+|+Welcome+to+my+GitHub+profile!+|+Always+learning+new+things+|+Frontend+%7C+Web+Dev" alt="Single Line Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+profile!;A+passionate+frontend+developer;Always+learning+new+things+%7C+Frontend+%7C+Web" alt="Multi-line Typing Animation" />
 </p>
+
 
 
 <!-- ================= HERO HEADER (Capsule Render) ================= -->
