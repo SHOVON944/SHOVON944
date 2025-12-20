@@ -41,7 +41,7 @@
 </p>
 
 <!-- ================= SKILLS / TECH STACK ICONS (One Line) ================= -->
-left  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,git,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,git,github&theme=dark" />
   <br><br>
   <img src="https://img.shields.io/badge/Focusing_on-Data_Structures_&_Algorithms-FFD700?style=for-the-badge&logo=codeforces&logoColor=black" />
 </p>
@@ -51,7 +51,7 @@ left  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,git,gi
 
 <!-- ================= CONTRIBUTION SNAKE ANIMATION ================= -->
 
-<p align="left">
+<p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
