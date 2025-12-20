@@ -11,10 +11,6 @@
 
 
 
-<!-- ================= HERO HEADER (Capsule Render) ================= -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=MD%20SAKIBUL%20ISLAM%20SHOVON&fontSize=35&fontAlignY=40" />
-
 
 
 <!-- ================= TYPING TEXT ANIMATION ================= -->
