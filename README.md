@@ -19,7 +19,9 @@
 <!-- ================= ABOUT ME SECTION (Static, Big & Colorful) ================= -->
 
 <p align="left">
-  <img src="https://img.shields.io/badge/B.Sc._Engg._in_CSE-FF5733?style=for-the-badge&logo=googlescholar&logoColor=white" />
+  <kbd style="background-color: #FF5733; color: white; padding: 5px 10px; border-radius: 5px; font-weight: bold;">
+  B.Sc. Engg. in CSE
+</kbd>
   <img src="https://img.shields.io/badge/Patuakhali Science and Technology University-006400?style=for-the-badge&logo=google-earth&logoColor=white" />
 </p>
 
