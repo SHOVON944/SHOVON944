@@ -14,16 +14,15 @@
 
 <img align="right" width="220" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
+
+
 <!-- ================= ABOUT ME SECTION (Static, Big & Colorful) ================= -->
-<h2 align="center">
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/giftxt.gif" width="30px"> 
-  <span style="color: #007acc;">Studying</span> 
-  <b>Computer Science & Engineering</b> 
-  <br>
-  at 
-  <ins>Patuakhali Science and Technology University</ins> 
-  🎓
-</h2>
+### 🎓 Education
+
+![Department](https://img.shields.io/badge/Department-CSE-blue?style=for-the-badge&logo=computer-science&logoColor=white)
+![University](https://img.shields.io/badge/University-PSTU-green?style=for-the-badge&logo=google-earth&logoColor=white)
+
+> Currently pursuing my Bachelor's degree in **Computer Science & Engineering** at **Patuakhali Science and Technology University**.
 
 <!-- ========================================================= -->
 <!-- ==================== SOCIAL LINKS ====================== -->
