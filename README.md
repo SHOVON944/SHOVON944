@@ -14,7 +14,7 @@
 
 <!-- ================= CODING GIF (RIGHT SIDE) ================= -->
 
-<img align="right" width="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" width="220" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 <!-- ================= ABOUT ME SECTION (Static, Big & Colorful) ================= -->
 
@@ -41,13 +41,11 @@
 </p>
 
 
-
-<!-- ================= SKILLS / TECH STACK ICONS ================= -->
+<!-- ================= SKILLS / TECH STACK ICONS (One Line) ================= -->
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,react,git,github&theme=dark&perline=5" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,react,git,github&theme=dark&perline=11" />
 </p>
-
 
 
 <!-- ================= GITHUB STATS ================= -->
