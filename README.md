@@ -2,13 +2,18 @@
 <h3 align="center">A passionate frontend developer</h3>
 
 <!-- ================= HERO HEADER + NAME ANIMATION (Smaller Box) ================= -->
+<!-- ================= HERO HEADER + NAME ANIMATION (Smaller Box) ================= -->
 
-<!-- ================= HERO HEADER: Animated Box with Text ================= -->
-
+<!-- "Hi" Text Typing -->
 <p align="center">
-  <!-- Animated Box with Gradient & subtle wave -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=120&section=header&text=Hi,+I'm+M.D.+SAKIBUL+ISLAM+SHOVON&fontSize=26&fontAlignY=40&animation=wave" alt="Animated Box with Text" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=400&lines=Hi👋" alt="Hi typing" />
 </p>
+
+<!-- Name Animation (Capsule Render - Smaller Box) -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&animation=fadeIn&color=gradient&height=120&section=header&text=MD%20SAKIBUL%20ISLAM%20SHOVON&fontSize=28&fontAlignY=35" alt="Shovon Name Animation" />
+</p>
+
 
 
 
