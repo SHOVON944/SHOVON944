@@ -16,6 +16,11 @@
 
 <img align="right" width="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
+<!-- ================= ABOUT ME SECTION (Random Color Text) ================= -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&animation=wave&color=gradient&height=100&section=header&text=🌱%20Studying%20CSE%20at%20Patuakhali%20Science%20and%20Technology%20University%20|%20💻%20Frontend%20Dev%20&%20Competitive%20Programming%20|%20🚀%20Always%20learning%20new%20technologies&fontSize=20&fontAlignY=35" alt="About Me Animated Gradient Text" />
+</p>
 
 
 <!-- ================= SKILLS / TECH STACK ICONS ================= -->
