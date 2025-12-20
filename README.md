@@ -12,18 +12,9 @@
 
 
 
-
-<!-- ================= TYPING TEXT ANIMATION ================= -->
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Hi+I'm+Shovon;CSE+Student+%40+PSTU;Frontend+Developer;Problem+Solver" />
-</p>
-
-
-
 <!-- ================= CODING GIF (RIGHT SIDE) ================= -->
 
-<img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" width="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 
 
