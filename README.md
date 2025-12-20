@@ -43,24 +43,11 @@
 </p>
 
 <!-- ================= SKILLS / TECH STACK ICONS (One Line) ================= -->
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,git,github&theme=dark&perline=11" />
-</p>
-
-
-
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,git,github&theme=dark" />
   <br><br>
   <img src="https://img.shields.io/badge/Focusing_on-Data_Structures_&_Algorithms-FFD700?style=for-the-badge&logo=codeforces&logoColor=black" />
 </p>
-
-
-
-
-
 
 
 
