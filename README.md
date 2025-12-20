@@ -108,6 +108,46 @@
 <!-- ================= FOOTER ================= -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
+<!-- ========================================================= -->
+<!-- =============== LEGENDARY HERO HEADER ================== -->
+<!-- ========================================================= -->
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=ffffff&text=MD%20SAKIBUL%20ISLAM%20SHOVON&fontSize=42&animation=fadeIn&fontAlignY=38" />
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=CSE+Undergraduate+%40+PSTU;Frontend+Developer;Problem+Solver;Building+Clean+and+Scalable+Code" />
+</p>
+
+
+
+<!-- ========================================================= -->
+<!-- ==================== SOCIAL LINKS ====================== -->
+<!-- ========================================================= -->
+
+<p align="center">
+  <a href="https://facebook.com/sakibul944">
+    <img src="https://img.shields.io/badge/Facebook-0A66C2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/md-si-shovon">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:sakibul944@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+
+
+<!-- ========================================================= -->
+<!-- ==================== ABOUT SECTION ===================== -->
+<!-- ========================================================= -->
+
+```cpp
+Name        : M.D. Sakibul Islam Shovon
+Degree      : B.Sc. in Computer Science & Engineering
+University  : Patuakhali Science and Technology University
+Focus       : Frontend Development + Problem Solving
+Mindset     : Learn → Build → Improve → Repeat
 
 
 - 🌱 I’m currently learning at *Patuakhali Science and Technology University*
