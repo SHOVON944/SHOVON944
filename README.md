@@ -15,12 +15,15 @@
 <img align="right" width="220" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 <!-- ================= ABOUT ME SECTION (Static, Big & Colorful) ================= -->
-
-<p align="left" style="font-size:22px; line-height:1.8;">
-  <span style="color:#FF5733;">🌱 Studying <b>Computer Science & Engineering</b> at <b>Patuakhali Science and Technology University</b></span><br>
-  <span style="color:#33C3FF;">💻 Interested in <b>Frontend Development & Competitive Programming</b></span><br>
-  <span style="color:#28A745;">🚀 Always learning new technologies</span>
-</p>
+<h2 align="center">
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/giftxt.gif" width="30px"> 
+  <span style="color: #007acc;">Studying</span> 
+  <b>Computer Science & Engineering</b> 
+  <br>
+  at 
+  <ins>Patuakhali Science and Technology University</ins> 
+  🎓
+</h2>
 
 <!-- ========================================================= -->
 <!-- ==================== SOCIAL LINKS ====================== -->
