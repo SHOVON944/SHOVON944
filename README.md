@@ -21,10 +21,13 @@
   <img src="https://img.shields.io/badge/Degree-B.Sc._Engg._in_CSE-FF5733?style=flat&logo=googlescholar&logoColor=white" height="28"/>
   <img src="https://img.shields.io/badge/University-PSTU-006400?style=flat&logo=google-earth&logoColor=white" height="28"/>
 </p>
-
 <p align="left">
-  <img src="https://img.shields.io/badge/Degree-B.Sc._Engg._in_CSE-FF5733?style=flat&logo=googlescholar&logoColor=white" height="35"/>
-  <img src="https://img.shields.io/badge/University-PSTU-006400?style=flat&logo=google-earth&logoColor=white" height="35"/>
+  <a href="#">
+    <img src="https://img.shields.io/static/v1?label=Degree&message=B.Sc.%20Engg.%20in%20CSE&color=FF5733&style=flat-square" height="45" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/static/v1?label=University&message=PSTU&color=006400&style=flat-square" height="45" />
+  </a>
 </p>
 
 
