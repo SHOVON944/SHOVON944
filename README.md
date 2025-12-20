@@ -1,6 +1,6 @@
 <!-- ================= HERO HEADER: Full Width Waving Box ================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&animation=fadeIn&color=gradient&height=140&section=header&text=Hi,+I'm+M.D.+SAKIBUL+ISLAM+SHOVON&fontSize=28&fontAlignY=38" alt="Shovon Name Animation" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&animation=fadeIn&color=gradient&height=120&section=header&text=Hi,+I'm+M.D.+SAKIBUL+ISLAM+SHOVON&fontSize=28&fontAlignY=38" alt="Shovon Name Animation" />
 </p>
 
 <!-- ================= SEQUENTIAL MULTI-LINE TYPING ================= -->
