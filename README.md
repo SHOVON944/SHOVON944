@@ -3,15 +3,18 @@
 
 <!-- ================= HERO HEADER + NAME ANIMATION (Smaller Box) ================= -->
 
-<!-- "Hi" Text Typing -->
+<!-- ================= HERO HEADER: Hi, I'm Name ================= -->
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=400&lines=Hi👋" alt="Hi typing" />
+  <!-- Typing animation for the text -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi,+I'm+M.D.+SAKIBUL+ISLAM+SHOVON" alt="Hi typing animation" />
 </p>
 
-<!-- Name Animation (Capsule Render - Smaller Box) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&animation=fadeIn&color=gradient&height=120&section=header&text=MD%20SAKIBUL%20ISLAM%20SHOVON&fontSize=28&fontAlignY=35" alt="Shovon Name Animation" />
+  <!-- Animated box around the text -->
+  <img src="https://capsule-render.vercel.app/api?type=border&animation=fadeIn&color=gradient&height=140&section=header&text=Hi,+I'm+M.D.+SAKIBUL+ISLAM+SHOVON&fontSize=28&fontAlignY=40" alt="Animated box" />
 </p>
+
 
 
 <p align="center">
