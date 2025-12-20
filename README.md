@@ -6,14 +6,15 @@
 <!-- ================= HERO HEADER: Hi, I'm Name ================= -->
 
 <p align="center">
-  <!-- Typing animation for the text -->
+  <!-- Typing animation -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi,+I'm+M.D.+SAKIBUL+ISLAM+SHOVON" alt="Hi typing animation" />
 </p>
 
 <p align="center">
-  <!-- Animated box around the text -->
-  <img src="https://capsule-render.vercel.app/api?type=border&animation=fadeIn&color=gradient&height=140&section=header&text=Hi,+I'm+M.D.+SAKIBUL+ISLAM+SHOVON&fontSize=28&fontAlignY=40" alt="Animated box" />
+  <!-- Gradient animated box -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=140&section=header&text=&fontSize=28&animation=wave" alt="Animated box" />
 </p>
+
 
 
 
