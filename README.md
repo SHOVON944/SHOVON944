@@ -50,14 +50,7 @@
 
 
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,git,github,leetcode&theme=dark&perline=11" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,git,github&theme=dark" />
-  <br><br>
-  <img src="https://img.shields.io/badge/Focusing_on-Data_Structures_&_Algorithms-FFD700?style=for-the-badge&logo=codeforces&logoColor=black" />
-</p>
+
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=APNAR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
