@@ -4,10 +4,10 @@
 </p>
 
 <!-- ================= SEQUENTIAL MULTI-LINE TYPING ================= -->
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=450&lines=Welcome%20to%20my%20GitHub%20profile!;A%20passionate%20frontend%20developer;Always%20learning%20new%20things;Frontend%20%7C%7C%20Web%20Developer" alt="Sequential Multi-line Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=450&lines=Welcome%20to%20my%20GitHub%20profile!;A%20passionate%20frontend%20developer;Always%20learning%20new%20things;Problem%20Solver;%20Building%20Clean%20and%20Scalable%20Code;Frontend%20%7C%7C%20Web%20Developer" alt="Sequential Multi-line Typing Animation" />
 </p>
+
 
 
 
@@ -100,27 +100,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SHOVON944&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
-
-
-
-<!-- ================= FOOTER ================= -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
-<img src="https://capsule-render.vercel.app/api?type=waving2&color=gradient&height=120&section=header" />
-
-<img src="https://capsule-render.vercel.app/api?type=waving3&color=gradient&height=120&section=footer" />
-<img src="https://capsule-render.vercel.app/api?type=waving4&color=gradient&height=120&section=header" />
-
-<!-- ========================================================= -->
-<!-- =============== LEGENDARY HERO HEADER ================== -->
-<!-- ========================================================= -->
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=ffffff&text=MD%20SAKIBUL%20ISLAM%20SHOVON&fontSize=42&animation=fadeIn&fontAlignY=38" />
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=CSE+Undergraduate+%40+PSTU;Frontend+Developer;Problem+Solver;Building+Clean+and+Scalable+Code" />
-</p>
-
 
 
 
