@@ -17,14 +17,8 @@
 
 
 <!-- ================= ABOUT ME SECTION (Static, Big & Colorful) ================= -->
-
-<p align="left">
-  <kbd style="background-color: #FF5733; color: white; padding: 5px 10px; border-radius: 5px; font-weight: bold;">
-  B.Sc. Engg. in CSE
-</kbd>
-  <img src="https://img.shields.io/badge/Patuakhali Science and Technology University-006400?style=for-the-badge&logo=google-earth&logoColor=white" />
-</p>
-
+<img src="https://img.shields.io/badge/Degree-B.Sc._Engg._in_CSE-FF5733?style=flat&logo=googlescholar&logoColor=white" />
+<img src="https://img.shields.io/badge/University-PSTU-006400?style=flat&logo=google-earth&logoColor=white" />
 
 <!-- ========================================================= -->
 <!-- ==================== SOCIAL LINKS ====================== -->
