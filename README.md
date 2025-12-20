@@ -1,14 +1,11 @@
 <h1 align="center">Hi , I'm M.D. SAKIBUL ISLAM SHOVON</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-<!-- ================= NAME ANIMATION BOX (Enhanced with 4-side effect) ================= -->
+<!-- ================= NAME ANIMATION BOX (Waving Effect, Nice Up-Down) ================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&animation=wave&color=gradient&height=120&section=header&text=MD%20SAKIBUL%20ISLAM%20SHOVON&fontSize=28&fontAlignY=40&rounded=true&border=true" alt="Shovon Name Animation Box" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&animation=fadeIn&color=gradient&height=120&section=header&text=Hi,+I'm+M.D.+SAKIBUL+ISLAM+SHOVON&fontSize=28&fontAlignY=35" alt="Shovon Name Animation" />
 </p>
-
-
-
 
 
 
