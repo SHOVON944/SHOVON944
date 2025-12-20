@@ -18,7 +18,7 @@
 
 <!-- ================= ABOUT ME SECTION (Static, Big & Colorful) ================= -->
 <p align="left">
-  <img src="https://img.shields.io/badge/Degree-B.Sc._Engg._in_CSE-FF5733?style=flat&logo=googlescholar&logoColor=white" height="38"/>
+  <img src="https://img.shields.io/badge/Degree-B.Sc._Engg._in_CSE-FF5733?style=flat&logo=googlescholar&logoColor=white" height="50"/>
   <img src="https://img.shields.io/badge/University-PSTU-006400?style=flat&logo=google-earth&logoColor=white" height="38"/>
 </p>
 <!-- ========================================================= -->
