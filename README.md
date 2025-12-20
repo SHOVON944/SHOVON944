@@ -1,6 +1,19 @@
 <h1 align="center">Hi , I'm M.D. SAKIBUL ISLAM SHOVON</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
+<!-- ================= HERO HEADER + NAME ANIMATION (Smaller Box) ================= -->
+
+<!-- "Hi" Text Typing -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=400&lines=Hi👋" alt="Hi typing" />
+</p>
+
+<!-- Name Animation (Capsule Render - Smaller Box) -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&animation=fadeIn&color=gradient&height=120&section=header&text=MD%20SAKIBUL%20ISLAM%20SHOVON&fontSize=28&fontAlignY=35" alt="Shovon Name Animation" />
+</p>
+
+
 <p align="center">
   <!-- Animated wave SVG -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+profile!;Always+learning+new+things;Frontend+%7C+Web+Dev" alt="Typing SVG" />
