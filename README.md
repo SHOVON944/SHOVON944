@@ -3,11 +3,12 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&animation=fadeIn&color=gradient&height=140&section=header&text=Hi,+I'm+M.D.+SAKIBUL+ISLAM+SHOVON&fontSize=28&fontAlignY=38" alt="Shovon Name Animation" />
 </p>
 
-<!-- ================= MULTI-LINE TYPING ANIMATION ================= -->
+<!-- ================= MULTI-LINE TYPING ANIMATION (Fixed) ================= -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+profile!;A+passionate+frontend+developer;Always+learning+new+things+%6C+Frontend+%6C+Web" alt="Multi-line Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Welcome%20to%20my%20GitHub%20profile!;A%20passionate%20frontend%20developer;Always%20learning%20new%20things%20%7C%20Frontend%20%7C%20Web" alt="Multi-line Typing Animation" />
 </p>
+
 
 
 
