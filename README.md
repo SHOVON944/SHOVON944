@@ -20,12 +20,11 @@
 ### 🎓 Education
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Degree-B.Sc._Engg.-FF5733?style=for-the-badge&logo=googlescholar&logoColor=white" />
-  <img src="https://img.shields.io/badge/Department-CSE-blue?style=for-the-badge&logo=computer-science&logoColor=white" />
-  <img src="https://img.shields.io/badge/University-PSTU-006400?style=for-the-badge&logo=google-earth&logoColor=white" />
+  <img src="https://img.shields.io/badge/Faculty-CSE-blue?style=for-the-badge&logo=computer-science&logoColor=white" />
+  <img src="https://img.shields.io/badge/University-Patuakhali Science and Technology University-006400?style=for-the-badge&logo=google-earth&logoColor=white" />
 </p>
 
-> 🎓 Currently pursuing my **B.Sc. Engineering** degree in **Computer Science & Engineering** at **Patuakhali Science and Technology University**. 🚀
+> 🎓 Currently pursuing my **B.Sc. Engineering** degree in **Computer Science & Engineering** at **Patuakhali Science and Technology University**.
 
 <!-- ========================================================= -->
 <!-- ==================== SOCIAL LINKS ====================== -->
