@@ -1,14 +1,12 @@
 <!-- ================= HERO HEADER: Full Width Waving Box ================= -->
-<p align="center" style="margin-bottom:5px;">
+<p align="center" style="margin:0;padding:0;">
   <img src="https://capsule-render.vercel.app/api?type=waving&animation=fadeIn&color=gradient&height=120&section=header&text=Hi,+I'm+M.D.+SAKIBUL+ISLAM+SHOVON&fontSize=28&fontAlignY=38" alt="Shovon Name Animation" />
 </p>
 
 <!-- ================= SEQUENTIAL MULTI-LINE TYPING ================= -->
-<p align="center" style="margin-top:0;">
+<p align="center" style="margin:0;padding:0;">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=450&lines=Welcome%20to%20my%20GitHub%20profile!;A%20passionate%20frontend%20developer;Always%20learning%20new%20things;Problem%20Solver;%20Building%20Clean%20and%20Scalable%20Code;Frontend%20%7C%7C%20Web%20Developer" alt="Sequential Multi-line Typing Animation" />
 </p>
-
-
 
 
 
