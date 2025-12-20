@@ -27,18 +27,18 @@
 <!-- ========================================================= -->
 <!-- ==================== SOCIAL LINKS ====================== -->
 <!-- ========================================================= -->
-
 <p align="left">
-  <a href="https://facebook.com/sakibul944">
-    <img src="https://img.shields.io/badge/Facebook-0A66C2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  <a href="https://facebook.com/sakibul944" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-  <a href="https://linkedin.com/in/md-si-shovon">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://linkedin.com/in/md-si-shovon" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:sakibul944@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
+
 
 <!-- ================= SKILLS / TECH STACK ICONS (One Line) ================= -->
 <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,git,github&theme=dark" />
