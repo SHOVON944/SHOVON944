@@ -30,7 +30,7 @@
 <!-- ==================== SOCIAL LINKS ====================== -->
 <!-- ========================================================= -->
 
-<p align="center">
+<p align="left">
   <a href="https://facebook.com/sakibul944">
     <img src="https://img.shields.io/badge/Facebook-0A66C2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
