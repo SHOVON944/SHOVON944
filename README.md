@@ -41,6 +41,13 @@
 </p>
 
 
+<!-- ================= CONTRIBUTION SNAKE ANIMATION ================= -->
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+
 <!-- ================= SKILLS / TECH STACK ICONS (One Line) ================= -->
 
 <p align="center">
@@ -72,27 +79,8 @@
 
 
 
-<!-- ================= CONTRIBUTION ACTIVITY GRAPH ================= -->
-
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=SHOVON944&theme=react-dark&hide_border=true" />
-</p>
 
 
-
-<!-- ================= PROFILE TROPHY ================= -->
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SHOVON944&theme=onedark&no-frame=true" />
-</p>
-
-
-
-<!-- ================= CONTRIBUTION SNAKE ANIMATION ================= -->
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
 
 
 
