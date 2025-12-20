@@ -12,7 +12,7 @@
 
 <!-- ================= CODING GIF (RIGHT SIDE) ================= -->
 
-<img align="right" width="220" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" width="210" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 
 
