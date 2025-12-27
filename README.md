@@ -69,6 +69,13 @@
   <img src="https://github-readme-stats.vercel.app/api?username=SHOVON944&show_icons=true&theme=onedark&hide_title=true" />
 </p>
 
+<!-- ================= GITHUB STATS (FIXED ALIGNMENT) ================= -->
+
+<p align="center">
+  <img width="32%" src="https://github-readme-stats.vercel.app/api?username=SHOVON944&show_icons=true&theme=onedark&hide_title=true" />
+  <img width="32%" src="https://github-readme-streak-stats.herokuapp.com/?user=SHOVON944&theme=onedark" />
+  <img width="32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHOVON944&layout=compact&theme=onedark&langs_count=6" />
+</p>
 
 
 <!-- ================= GITHUB STREAK ================= -->
