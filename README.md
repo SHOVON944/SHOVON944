@@ -80,69 +80,9 @@
 <!-- ================= TOP LANGUAGES ================= -->
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHOVON944&layout=compact&theme=onedark&langs_count=6" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHOVON944&layout=compact&theme=onedark&hide_border=true&langs_count=6" alt="Top Languages" />
 </p>
 
-
-
-
-
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&animation=fadeIn&color=gradient&height=120&section=header&text=Hi,+I'm+M.D.+SAKIBUL+ISLAM+SHOVON&fontSize=25&fontAlignY=35" alt="Header" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+profile!;A+passionate+frontend+developer;Problem+Solver+|+Open+Source+Enthusiast;Building+Clean+and+Scalable+Code" alt="Typing" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/B.Sc._Engg._in_CSE-FF5733?style=flat-square&logo=googlescholar&logoColor=white" />
-  <img src="https://img.shields.io/badge/Patuakhali_Science_and_Technology_University-006400?style=flat-square&logo=google-earth&logoColor=white" />
-</p>
-
-<p align="center">
-  <a href="https://facebook.com/sakibul944"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/md-si-shovon"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:sakibul944@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
----
-
-### 🛠️ My Tech Stack
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,git,github,vscode,js&theme=dark" />
-</p>
-
----
-
-### 📊 GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SHOVON944&show_icons=true&theme=onedark&hide_border=true&count_private=true" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=SHOVON944&theme=onedark&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHOVON944&layout=compact&theme=onedark&hide_border=true&langs_count=6" width="60%" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="80%" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SHOVON944&label=Profile%20Views&color=0e75b6&style=flat-square" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1000&color=58A6FF&center=true&vCenter=true&width=400&lines=Thanks+for+stopping+by!;Let's+build+something+awesome!" />
-</p>
 
 
 
