@@ -66,7 +66,10 @@
 <!-- ================= GITHUB STATS ================= -->
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SHOVON944&show_icons=true&theme=onedark&hide_title=true" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=SHOVON944&show_icons=true&theme=onedark&hide_title=true&count_private=true&cache_seconds=1800"
+    alt="GitHub Stats"
+  />
 </p>
 
 
