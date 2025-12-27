@@ -78,9 +78,8 @@
 
 
 <!-- ================= TOP LANGUAGES ================= -->
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHOVON944&layout=compact&theme=onedark&hide_border=true&langs_count=6" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHOVON944&layout=compact&theme=onedark" alt="Top Languages" />
 </p>
 
 
