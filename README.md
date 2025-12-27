@@ -78,7 +78,10 @@
 
 
 <!-- ================= TOP LANGUAGES ================= -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SHOVON944&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shovon944&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shovon944&layout=compact&theme=onedark)
+![Top Languages](https://metrics.lecoq.io/SHOVON944?template=classic&languages=1&languages.limit=6)
+
 
 
 
