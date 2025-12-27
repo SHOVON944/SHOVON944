@@ -63,11 +63,6 @@
 
 
 
-<!-- ================= GITHUB STATS ================= -->
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=SHOVON944&theme=onedark" alt="GitHub Streak" />
-</p>
-
 
 
 
@@ -76,11 +71,6 @@
   <img src="https://streak-stats.demolab.com?user=SHOVON944&theme=onedark" alt="GitHub Streak" />
 </p>
 
-
-<!-- ================= TOP LANGUAGES ================= -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shovon944&layout=compact)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shovon944&layout=compact&theme=onedark)
-![Top Languages](https://metrics.lecoq.io/SHOVON944?template=classic&languages=1&languages.limit=6)
 
 
 
