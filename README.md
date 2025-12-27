@@ -71,11 +71,9 @@
 
 
 <!-- ================= GITHUB STREAK ================= -->
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SHOVON944&theme=onedark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SHOVON944&theme=onedark&hide_border=true" alt="GitHub Streak" />
 </p>
-
 
 
 <!-- ================= TOP LANGUAGES ================= -->
