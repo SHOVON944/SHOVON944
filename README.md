@@ -64,8 +64,9 @@
 
 
 <!-- ================= GITHUB STATS ================= -->
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SHOVON944&show_icons=true)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=SHOVON944&theme=onedark" alt="GitHub Streak" />
+</p>
 
 
 
