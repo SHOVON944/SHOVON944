@@ -4,10 +4,9 @@
 </p>
 
 <!-- ================= SEQUENTIAL MULTI-LINE TYPING ================= -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=15B7B9&center=true&vCenter=true&width=500&height=50&lines=Welcome+to+my+GitHub+profile!;A+passionate+frontend+developer;Problem+Solver;Building+Clean+and+Scalable+Code;Frontend+||+Web+Developer" alt="Animation" />
+<p align="center" style="margin:0;padding:0;">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=500&color=58A6FF&center=true&vCenter=true&width=450&lines=Welcome%20to%20my%20GitHub%20profile!;A%20passionate%20frontend%20developer;Always%20learning%20new%20things;Problem%20Solver;%20Building%20Clean%20and%20Scalable%20Code;Frontend%20%7C%7C%20Web%20Developer" alt="Fast Typing Animation" />
 </p>
-
 
 
 <!-- ================= CODING GIF (RIGHT SIDE) ================= -->
