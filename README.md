@@ -5,7 +5,7 @@
 
 <!-- ================= SEQUENTIAL MULTI-LINE TYPING ================= -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=15B7B9&center=true&vCenter=true&width=500&height=50&lines=C+Language;C%2B%2B;Python;Java;JavaScript;Problem+Solver" alt="Animated Skills" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=15B7B9&center=true&vCenter=true&width=500&height=50&lines=Welcome+to+my+GitHub+profile!;A+passionate+frontend+developer;Problem+Solver;Building+Clean+and+Scalable+Code;Frontend+||+Web+Developer" alt="Animation" />
 </p>
 
 
