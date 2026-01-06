@@ -68,7 +68,77 @@
 
 
 
+### 🌌 My Custom Particle Animation (Pygame)
 
+import pygame
+import random
+import math
+
+# Initial Settings
+pygame.init()
+WIDTH, HEIGHT = 800, 600
+screen = pygame.display.set_mode((WIDTH, HEIGHT))
+pygame.display.set_caption("Particle Network")
+
+# Colors & Config
+BLACK = (0, 0, 0)
+WHITE = (255, 255, 255)
+NUM_PARTICLES = 100
+MAX_DISTANCE = 100
+
+class Particle:
+    def __init__(self):
+        self.x = random.randint(0, WIDTH)
+        self.y = random.randint(0, HEIGHT)
+        self.vx = random.uniform(-1, 1)
+        self.vy = random.uniform(-1, 1)
+
+    def move(self):
+        self.x += self.vx
+        self.y += self.vy
+        if self.x <= 0 or self.x >= WIDTH: self.vx *= -1
+        if self.y <= 0 or self.y >= HEIGHT: self.vy *= -1
+
+    def draw(self):
+        pygame.draw.circle(screen, WHITE, (int(self.x), int(self.y)), 2)
+
+particles = [Particle() for _ in range(NUM_PARTICLES)]
+
+def draw_lines():
+    mouse_pos = pygame.mouse.get_pos()
+    for i in range(len(particles)):
+        p1 = particles[i]
+        
+        # Mouse attraction logic
+        dx_m, dy_m = mouse_pos[0] - p1.x, mouse_pos[1] - p1.y
+        dist_m = math.hypot(dx_m, dy_m)
+        if dist_m < 150:
+            p1.x += dx_m * 0.02
+            p1.y += dy_m * 0.02
+
+        for j in range(i + 1, len(particles)):
+            p2 = particles[j]
+            dist = math.hypot(p1.x - p2.x, p1.y - p2.y)
+            if dist < MAX_DISTANCE:
+                alpha = int(255 * (1 - dist / MAX_DISTANCE))
+                pygame.draw.line(screen, (alpha, alpha, alpha), (p1.x, p1.y), (p2.x, p2.y), 1)
+
+# Main Loop
+running = True
+clock = pygame.time.Clock()
+while running:
+    screen.fill(BLACK)
+    for event in pygame.event.get():
+        if event.type == pygame.QUIT: running = False
+
+    for p in particles:
+        p.move()
+        p.draw()
+    draw_lines()
+    pygame.display.flip()
+    clock.tick(60)
+
+pygame.quit()
 
 
 
@@ -101,3 +171,8 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Thanks%20for%20visiting%20my%20GitHub%20profile!;Your%20support%20means%20a%20lot;Stay%20tuned%20for%20more%20projects;Let's%20build%20something%20awesome%20together" alt="Footer Typing Animation" />
 </p>
+
+
+
+
+
